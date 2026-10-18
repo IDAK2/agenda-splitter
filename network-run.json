@@ -1,0 +1,19 @@
+{
+  "recordType": "operator-created lifecycle fixture; not independent third-party evidence",
+  "recordId": "AGENDA_SPLITTER-1792366492",
+  "contractAddress": "0x161DC4A67f352437CF4146B62c5b046894B51839",
+  "transaction": "0x204f6a3bbe7260a07b5089166fb28faa92675c8c56880228e8e281eed1fbea7f",
+  "readback": {
+    "chair": "0x4444444444444444444444444444444444444444",
+    "clerk": "0xc8e8f5B7d61Da6eD160f474592627D65728b516e",
+    "id": "AGENDA_SPLITTER-1792366492",
+    "motion_digest": "",
+    "motion_url": "https://www.w3.org/TR/ethical-web-principles/",
+    "questions": [],
+    "revision": 0,
+    "rules_digest": "",
+    "rules_url": "https://www.gov.uk/government/publications/model-standing-orders",
+    "state": "FILED",
+    "title": "Compound neighborhood facilities motion"
+  }
+}

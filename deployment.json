@@ -1,0 +1,11 @@
+{
+  "account": "IDAK2",
+  "network": "StudioNet",
+  "contractAddress": "0x161DC4A67f352437CF4146B62c5b046894B51839",
+  "deploymentTransaction": "0x0bb8321caf4ce673f3c89001da24b650cda6a4d0924a0864a47cd8beb797b92b",
+  "deploymentConsensus": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "sourceSha256": "0da8a3b1626e61cd85fbf012ccabaad24900a86dec91728160eace934351ffb8",
+  "sourceCommit": "4320d93b31725cdfbf15b5198dc15a05e89dd3d9",
+  "repository": "https://github.com/IDAK2/agenda-splitter"
+}
